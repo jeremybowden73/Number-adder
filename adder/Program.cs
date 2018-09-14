@@ -29,6 +29,7 @@ namespace adder
             }
 
             Console.WriteLine($"The sum of all your numbers is {sum}.");
+            Console.ReadLine();
         }
     }
 }
